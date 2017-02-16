@@ -8,22 +8,14 @@
             </div>
         </footer>
     </section>
-</section>sadf sad
-f 
-sadf 
-sad
-f sad
-f 
-sad
+</section>
 f sad
 f
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/fancybox/jquery.fancybox.js"></script>
 <script type="text/javascript" src="../js/cm.js?v1.1"></script>
 <script type="text/javascript" src="../js/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="../js/jquery-adsf 
-                                    sadf 
-                                    ui.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.js"></script>
 <script type="text/javascript" src="../js/bootstrap.min.js"></script>
 <script type="text/javascript" src="../js/bootbox.min.js"></script>
 <script type="text/javascript" src="../js/actionFx.js?v1.1"></script>
