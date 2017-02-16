@@ -8,7 +8,10 @@
             </div>
         </footer>
     </section>
-</section>
+</section>asd
+ 
+asd
+f 
 f sad
 f
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
@@ -16,7 +19,10 @@ f
 <script type="text/javascript" src="../js/cm.js?v1.1"></script>
 <script type="text/javascript" src="../js/jquery.autocomplete.js"></script>
 <script type="text/javascript" src="../js/jquery-ui.js"></script>
-<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+<script type="text/javasasdf a
+              sdf 
+              asd
+              fcript" src="../js/bootstrap.min.js"></script>
 <script type="text/javascript" src="../js/bootbox.min.js"></script>
 <script type="text/javascript" src="../js/actionFx.js?v1.1"></script>
 <script type="text/javascript" src="../js/jquery.nicescroll.js"></script>
